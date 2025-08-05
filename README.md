@@ -22,7 +22,7 @@
 - 📝 I occasionally write articles on [https://medium.com/@souravkumardash183](https://medium.com/@souravkumardash183)
 
 - 📫 How to reach me **souravkumardash183@gmail.com**
-
+<br>
 <h4><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with new people<b>, so don’t hesitate to say hi </b> <br>
 <b>— I’d truly love to get to know you!</b></em> 😊</h4>
 <p align="left">
