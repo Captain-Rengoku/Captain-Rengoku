@@ -23,13 +23,8 @@
 
 - 📫 How to reach me **souravkumardash183@gmail.com**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-rengoku" alt="captain-rengoku" /></a> </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h4><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> 😊</h4>
+<h4><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with new people<b>, so don’t hesitate to say hi </b> <br>
+<b>— I’d truly love to get to know you!</b></em> 😊</h4>
 <p align="left">
 <a href="https://linkedin.com/in/sourav183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav183" height="30" width="40" /></a>
 <a href="https://medium.com/@souravkumardash183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@souravkumardash183" height="30" width="40" /></a>
@@ -39,11 +34,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captain-rengoku&" alt="captain-rengoku" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captain-rengoku&show_icons=true&locale=en&layout=compact" alt="captain-rengoku" /></span>
-
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain-rengoku&show_icons=true&locale=en" alt="captain-rengoku" /></span>
+<hr>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=captain-rengoku&show_icons=true&locale=en&layout=compact" alt="captain-rengoku" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captain-rengoku&show_icons=true&locale=en" alt="captain-rengoku" /></p>
+<hr>
+<p align="cener"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captain-rengoku" alt="captain-rengoku" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
